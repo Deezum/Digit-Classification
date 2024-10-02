@@ -2,15 +2,6 @@
 
 This repository contains a neural network classifier that is designed to classify images of handwritten binary digits (0 or 1) from the MNIST dataset. The project was built using TensorFlow and Keras.
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Dataset](#dataset)
-3. [Model Architecture](#model-architecture)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [License](#license)
-
 ## Project Overview
 
 The goal of this project is to create a neural network that can accurately classify handwritten binary digits (0 and 1). The MNIST dataset is used, but only the digits labeled '0' or '1' are extracted for this binary classification task.
